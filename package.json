@@ -27,7 +27,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx --quiet",
     "lint-fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
-    "coverage:report": "npx nyc report --report=hmtl",
+    "coverage:report": "npx nyc report --report=hmtl"
   },
   "eslintConfig": {
     "extends": "react-app"
