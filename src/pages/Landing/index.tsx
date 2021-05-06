@@ -28,7 +28,6 @@ function Landing(): ReactElement {
         <div className="logo-container" id="logo">
           <img src={logoImg} alt="Proffy" />
           <h2>Sua plataforma de estudos online.</h2>
-          <h2>Treinando testes de regressão visual com Percy</h2>
         </div>
         <img src={landingImg} alt="Plataforma de estudos" className="hero-image" />
 
