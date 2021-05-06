@@ -27,14 +27,14 @@ function Landing(): ReactElement {
       <div id="page-landing-content" className="container">
         <div className="logo-container" id="logo">
           <img src={logoImg} alt="Proffy" />
-          <h2>Sua plataforma de estudos online.</h2>
+          <h2>A Sua plataforma de estudos online.</h2>
         </div>
         <img src={landingImg} alt="Plataforma de estudos" className="hero-image" />
 
         <div className="buttons-container">
           <Link to="/study" className="study">
             <img src={studyIcon} alt="Estudar" />
-            Estudar
+            Estudar agpra
           </Link>
 
           <Link to="/give-classes" className="give-classes">
